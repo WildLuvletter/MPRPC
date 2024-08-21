@@ -1,0 +1,6 @@
+Design the packing and parsing of RPC method parameters using Protobuf, which involves serializing and deserializing data.
+Use ZooKeeper as a service configuration center to discover RPC service hosts.
+Utilize the Muduo network library to initiate RPC call requests and handle corresponding RPC call results.
+Implement asynchronous logging with mutex locks and condition variables.
+
+This project needs libraries include muduo_net muduo_base pthread zookeeper_mt.

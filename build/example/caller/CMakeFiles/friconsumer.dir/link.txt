@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/friconsumer.dir/__/friend.pb.cc.o CMakeFiles/friconsumer.dir/callfriendservice.cc.o -o ../../../bin/friconsumer   -L/home/turing/Desktop/MCRPC/lib  -Wl,-rpath,/home/turing/Desktop/MCRPC/lib ../../../lib/libmprpc.a -lprotobuf -lmuduo_net -lmuduo_base -lpthread -lzookeeper_mt 

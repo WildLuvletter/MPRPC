@@ -1,0 +1,15 @@
+/home/turing/Desktop/MCRPC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/src/CMakeFiles/mprpc.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/example/CMakeFiles/edit_cache.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/example/CMakeFiles/rebuild_cache.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/example/callee/CMakeFiles/provider.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/example/callee/CMakeFiles/friprovider.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/example/callee/CMakeFiles/edit_cache.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/example/callee/CMakeFiles/rebuild_cache.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/example/caller/CMakeFiles/consumer.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/example/caller/CMakeFiles/friconsumer.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/example/caller/CMakeFiles/edit_cache.dir
+/home/turing/Desktop/MCRPC/cmake-build-debug/example/caller/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,15 @@
+/home/turing/Desktop/MCRPC/build/CMakeFiles/edit_cache.dir
+/home/turing/Desktop/MCRPC/build/CMakeFiles/rebuild_cache.dir
+/home/turing/Desktop/MCRPC/build/src/CMakeFiles/mprpc.dir
+/home/turing/Desktop/MCRPC/build/src/CMakeFiles/edit_cache.dir
+/home/turing/Desktop/MCRPC/build/src/CMakeFiles/rebuild_cache.dir
+/home/turing/Desktop/MCRPC/build/example/CMakeFiles/edit_cache.dir
+/home/turing/Desktop/MCRPC/build/example/CMakeFiles/rebuild_cache.dir
+/home/turing/Desktop/MCRPC/build/example/callee/CMakeFiles/provider.dir
+/home/turing/Desktop/MCRPC/build/example/callee/CMakeFiles/friprovider.dir
+/home/turing/Desktop/MCRPC/build/example/callee/CMakeFiles/edit_cache.dir
+/home/turing/Desktop/MCRPC/build/example/callee/CMakeFiles/rebuild_cache.dir
+/home/turing/Desktop/MCRPC/build/example/caller/CMakeFiles/consumer.dir
+/home/turing/Desktop/MCRPC/build/example/caller/CMakeFiles/friconsumer.dir
+/home/turing/Desktop/MCRPC/build/example/caller/CMakeFiles/edit_cache.dir
+/home/turing/Desktop/MCRPC/build/example/caller/CMakeFiles/rebuild_cache.dir
